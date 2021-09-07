@@ -3,3 +3,5 @@ uma
 atualização
 do 
 arquivo
+Enviando 
+a funcionalidade X
